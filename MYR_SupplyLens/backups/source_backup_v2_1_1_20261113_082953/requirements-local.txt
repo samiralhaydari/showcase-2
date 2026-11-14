@@ -1,0 +1,12 @@
+# Stable numerical stack. TensorFlow is installed separately for the local platform.
+numpy==2.1.3
+pandas==2.2.3
+scipy==1.15.3
+scikit-learn==1.7.2
+statsmodels==0.14.5
+joblib>=1.3,<2
+requests>=2.31
+plotly>=5.18
+streamlit>=1.32
+tensorflow>=2.16
+pytest>=7.4
